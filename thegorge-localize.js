@@ -138,19 +138,30 @@ var loc_strings = {
         "sweet": "甜品(Dessert)"
     },
     "简": {
-        "pot": "烹煮鍋(Cookpot)",
-        "oven": "窑烤炉(Oven)",
-        "grill": "烧烤盘(Grill)",
+        "label_offering":"给予",
+        "label_silveroffering":"银器给予",
+        "label_craving":"满足的需求",
+        "label_stations":"烹饪台",
+        "label_recipes":"顶级菜谱",
+        "label_cook":"首次烹饪",
+        "label_cook_unknown":"某人",
+        "label_cook_info":"这个菜谱最初发现，由 ",
+        "label_cook_info_unknown":"这个菜谱最初发现，由没有名字的某人。",
+        
+        "pot": "烹饪锅(Cookpot)",
+        "oven": "烤炉(Oven)",
+        "grill": "烤架(Grill)",
         "all": "全部(All)",
-        "snack": "点心(Snack)",
+        "snack": "小吃(Snack)",
         "bread": "面包(Bread)",
-        "veggie": "蔬菜(Veggie)",
-        "soup": "汤(Soup)",
-        "fish": "魚(Fish)",
-        "meat": "肉(Meat)",
-        "cheese": "起司(Cheese)",
-        "pasta": "意大利面(Pasta)",
-        "sweet": "甜品(Dessert)"
+        "veggie": "素食(Veggie)",
+        "soup": "汤类(Soup)",
+        "fish": "鱼类(Fish)",
+        "meat": "肉食(Meat)",
+        "cheese": "奶酪(Cheese)",
+        "pasta": "面食(Pasta)",
+        "sweet": "甜食(Dessert)"
+        
     }
 }
 
